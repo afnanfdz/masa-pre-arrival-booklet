@@ -9,7 +9,12 @@
 .section h1,
 .section h2,
 .section h3 {
-  border-bottom: 1px solid #eaecef;
+  color: #13294B;
+  border-bottom: 1px solid #FF552E;
+}
+
+.title {
+  color: #13294B;
 }
 
 /*

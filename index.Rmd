@@ -1,24 +1,28 @@
 ---
-title: "A Book, Made in Bookdown"
-author: "[By Vuc](https://github.com/afnanfdz)"
+title: "A Pre-Arrival Guide For Incoming & Prospective Students"
+author: "[By the Malaysian Student Association of UIUC](https://www.instagram.com/masauiuc/?hl=en)"
 site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook:
     css: "style.css"
     split_by: chapter
+    config:
+      toc:
+        collapse: subsection
 ---
+
 
 # Introduction {-}
 
 I'm not quite sure what I'm going to write in here. We'll see!
 
-## Libraries {-}
+## About the Book {-}
 
-* `bookdown`
+## About the Malaysian Student Association at UIUC {-}
 
-For creating this book!
+```{js, echo = FALSE}
+title=document.getElementById('header');
+title.innerHTML = '<img src="assets/plswork.png" alt="UIUC Logo">' + title.innerHTML
+```
 
-* `ggplot2`
-
-For plotting graphs with a tidy syntax.
