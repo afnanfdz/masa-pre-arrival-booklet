@@ -1,8 +1,46 @@
 # Arrival
 
+**Note: typically, the Membership Director(s) of MaSA will assist incoming students with this entire process.** Still, we'll detail out everything that should be done by an incoming student when here, for the sake of coverage and if it so happens that we for whatever rare reason are unable to assist.
+
+## Getting tested for COVID
+
+The university facilitates COVID-testing for free for faculty & students. [The Illinois App](https://app.illinois.edu/download-the-illinois-app/) will show you the nearest testing facility to you. They usually scan you in with your [I-Card][Getting your Student ID], but if you don't have that yet, you can tell them your UIN instead^[A 9-digit number associated to you as a student. It should be on one of your university documents.].
+
+Your results will usually return later in the day on your McKinley app. You'll get an email for it on your \@illinois.edu inbox as well.
+
 ## Getting your Student ID
+
+You'll have to make your way to the [Illini Union Bookstore](https://g.page/illiniunionbookstore?share) for your I-Card. There should be someone at the desk whom you may ask directions for. Just say you want to get your I-Card.
+
+The I-Card is necessary for gaining access to the residence hall you live in, for entering certain campus buildings, and scanning in for things like COVID tests or McKinley appointments. It also acts as an ATM card, if you bind your PNC bank account to it!
+
+Just in case, [check here for their opening times](https://bookstore.illinois.edu/).
 
 ## Getting a Bank Account (PNC)
 
+Luckily, this is also at the [Illini Union Bookstore](https://g.page/illiniunionbookstore?share)! Again, front desk can direct you if the location isn't so obvious on arrival. You'll be talking to someone in the PNC branch and they'll be helping you through the process of getting your account and debit card settled up.
+
+SEVERAL WARNINGS:
+
+  * You do not get your debit card immediately; rather, it will be mailed to the address you registered yourself under, three days later.
+  * Also, a phone number needs to be filled in during that process. Typically, since MaSA board members will be there with you, incoming students will use one of our phone numbers for the time being. As far as we can tell, this has been inconsequential. If you cannot have a MaSA member assisting you, then you may have to clear [getting a data plan & phone number][Getting a Data Plan] first.
+
 ## Getting a Data Plan
 
+A phone number is very very important for getting around. So is mobile internet. **You should check if your phone supports mobile plans here; this tends not to be the case for Android-phone users, so you may have to purchase a new phone here**.
+
+Plans are relatively cheap here, even at unlimited data, so we usually recommend getting unlimited data unless you want to cheap out and know you aren't going to use much every month. 
+
+The nature of this process is such that people tend to research their dataplan options once, stick to one dataplan, then never think about it ever again. Or, someone else did it for you and included you in the family plan for cheaper plans. The latter is the case for me, the writer, so I'm unable to describe this section in too much detail, but here's some of the dataplans I recommend, and why I recommend them:
+
+#### Mint {-}
+
+This is the best, least-hassle, touchdown option for incoming students. You can order a simcard online for whatever duration you choose and they'll mail it to you, with the eject pin, even. You can ask a MaSA board member to make this purchase for you (and you pay them back later) if you want it ASAP, since ordering online means requiring a debit/credit card.
+
+#### Cricket {-}
+
+This is what I use. Unlimited data for $20 a month for a family of 4 or more.
+
+#### Other {-}
+
+I'm aware of the existence of T-Mobile & Verizon here as well. I'm not sure what their processes are, nor their rates.

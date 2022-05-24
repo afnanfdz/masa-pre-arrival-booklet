@@ -1,12 +1,13 @@
 pre-departure-preparations
 documents
-money-phone
+money
+contacts
 packing
 on-hand-luggage
 check-in-luggage
-clothes
-food
+clothes-1
 other-items
+food
 arrival
 getting-your-student-id
 getting-a-bank-account-pnc
