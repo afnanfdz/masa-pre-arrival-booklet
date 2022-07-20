@@ -35,7 +35,7 @@ The nature of this process is such that people tend to research their dataplan o
 
 #### Mint {-}
 
-This is the best, least-hassle, touchdown option for incoming students. You can order a simcard online for whatever duration you choose and they'll mail it to you, with the eject pin, even. You can ask a MaSA board member to make this purchase for you (and you pay them back later) if you want it ASAP, since ordering online means requiring a debit/credit card.
+This in our experience has been the best, least-hassle, touchdown option for incoming students. You can order a simcard online for whatever duration you choose and they'll mail it to you, with an eject pin too You can ask a MaSA board member to make this purchase for you (and you pay them back later) if you want it ASAP, since ordering online means requiring a debit/credit card (which comically requires a phone number).
 
 #### Cricket {-}
 

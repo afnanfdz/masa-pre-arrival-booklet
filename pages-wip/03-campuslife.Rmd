@@ -1,0 +1,60 @@
+# Life on Campus
+
+`This chapter, though already written-in, is missing some implementations or is simply not complete in ways that would enhance reader experience. There are TODOs in the source code that should be handled sooner than later.`
+
+You may ask, what's it like to live here, when courses aren't in the way? What do we have access to, and what don't we? Here's the page for that!
+
+## Travelling
+
+#### Locally {-}
+
+<!-- TODO: Link MTD, Apps -->
+
+Our primary modes of transport are buses, personal (or rental) bicycles, and walking. Very few students own a car (those who own one usually plan to stay in the US for longer or live very far).
+
+The CU-MTD bus system here is excellent, they're free for students, they're practically everywhere, they're frequent, and there are apps you can use to track bus schedules near you (varies from Android to iOS).
+
+Those who get around more often and need more flexibility tend to get themselves a bike, usually either handed-down or bought secondhand. Within campus, there are bike lanes on most streets if you feel confident cycling alongside vehicles.
+
+Walking is a total possibility if all else fails, the weather on most days are bearable enough and the campus layout is fairly simple to get used to.
+
+#### Out of Town {-}
+
+<!-- TODO: Link Enterprise, offer alternatives -->
+
+Road trip!! If you don't own a car but want one, you'd usually rent one from Enterprise, share the costs if you're carpooling, and be on your merry way. 
+
+Trains are an option too! There's an Amtrak station nearby and you can book tickets to get from A to B without having to drive. 'A' usually being Urbana-Champaign and 'B' usually being Chicago.
+
+We've also got O'Hare International Airport for getting further out.
+
+
+## The Weather
+
+#### Summer {-}
+
+<!-- TODO: Link to Japan House -->
+
+The first season you'll likely experience if you arrive for the Fall semester. It can get hot up to ~33 °C / 91 °F in the noon, but usually gets cool by the evenings, and it is usually windy enough to not melt. It is dryer here than Malaysia, so you tend to sweat less. Summer and Spring are a little difficult to differentiate, but let's say it started getting warm in early May in 2022.
+
+#### Fall {-}
+
+You'll get one week of this at best before it might as well be called winter. It starts getting cool in roughly September.
+
+#### Winter {-}
+
+It can get _cold_ in the Midwest starting early December, but it usually doesn't snow until much later; in 2022 the first proper snow occurred maybe late January or early February.
+
+#### Spring {-}
+
+Telegraphed by the temperatures beginning to rise from daily negatives to low positives (Celcius). Like Fall, you barely get much of this season as the temperature jumps from cold to hot within a week. You should visit the Japan House around this time!
+
+## The Food
+
+## Groceries
+
+### General Goods
+
+### International / Asian Goods
+
+### Halal Meat
